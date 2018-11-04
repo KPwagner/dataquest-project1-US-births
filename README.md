@@ -6,6 +6,13 @@ This project is from the Python Programming: Beginner course of Dataquest's Data
 - [US_births_1994-2003_CDC_NCHS.csv](../blob/master/US_births_1994-2003_CDC_NCHS.csv) CSV dataset with data for U.S. births from 1994 to 2003. Source: Centers for Disease Control and Prevention.
 - [US_births_2000-2014_SSA.csv](../blob/master/US_births_2000-2014_SSA.csv) CSV dataset with data for U.S. births from 2000 to 2014. Source: United States Social Security Administration.
 
+## Findings from Data Exploration
+After combining the CDC and SSA data, the resulting dataset spans all dates from 1994 to 2014.
+
+		| January | February | March | April
+--------------- | ------- | -------- | ----- | -----
+Births		| 7.0mm	  | 6.5mm    | 7.1mm | 6.8mm
+
 
 ## About Dataquest
 Dataquest ([dataquest.io](https://www.dataquest.io/home)) is an online code academy which offers educational content relating to Data Science.
