@@ -9,10 +9,10 @@ This project is from the Python Programming: Beginner course of Dataquest's Data
 ## Findings from Data Exploration
 After combining the CDC and SSA data, the resulting dataset spans all dates from 1994 to 2014.
 
-Below the number of births by month from 1994 to 2014 are collected. Births in millions. There were not significantly more or fewer births in any given month. February, even taking into account fewer days, was a slightly less popular month with a total of 6.5mm births, and July and August were slightly more populars months with births of 7.5mm and 7.6mm respectively.
+Below the number of births by month from 1994 to 2014 are collected. There were not significantly more or fewer births in any given month. February, even taking into account fewer days, was a slightly less popular month with a total of 6.5mm births, and July and August were slightly more populars months with births of 7.5mm and 7.6mm respectively.
 
-| Month | Births |
-| ----- | ------ |
+| Month | Births (mm) |
+| :---- | -----: |
 | January | 7.0 |
 | February | 6.5 |
 | March | 7.1 |
