@@ -9,10 +9,22 @@ This project is from the Python Programming: Beginner course of Dataquest's Data
 ## Findings from Data Exploration
 After combining the CDC and SSA data, the resulting dataset spans all dates from 1994 to 2014.
 
-| Month	  | January | February | March | April | May | June | July | August | September | October | November | December |
-| ------- | ------- | -------- | ----- | ----- | --- | ---- | ---- | ------ | --------- | ------- | -------- | -------- |
-| Births  | 7.0mm   | 6.5mm    | 7.1mm | 6.8mm | 7.2mm | 7.1mm | 7.5mm | 7.6mm | 7.4mm | 7.3mm | 6.9mm | 7.1mm |
+Below the number of births by month from 1994 to 2014 are collected. Births in millions. There were not significantly more or fewer births in any given month. February, even taking into account fewer days, was a slightly less popular month with a total of 6.5mm births, and July and August were slightly more populars months with births of 7.5mm and 7.6mm respectively.
 
+| Month | Births |
+| ----- | ------ |
+| January | 7.0 |
+| February | 6.5 |
+| March | 7.1 |
+| April | 6.8 |
+| May | 7.2 |
+| June | 7.1 |
+| July | 7.5 |
+| August | 7.6 |
+| September | 7.4 |
+| October | 7.3 |
+| November | 6.9 |
+| December | 7.1 |
 
 ## About Dataquest
 Dataquest ([dataquest.io](https://www.dataquest.io/home)) is an online code academy which offers educational content relating to Data Science.
