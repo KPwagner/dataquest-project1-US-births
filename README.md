@@ -9,9 +9,9 @@ This project is from the Python Programming: Beginner course of Dataquest's Data
 ## Findings from Data Exploration
 After combining the CDC and SSA data, the resulting dataset spans all dates from 1994 to 2014.
 
-Month		| January | February | March | April
---------------- | ------- | -------- | ----- | -----
-Births		| 7.0mm	  | 6.5mm    | 7.1mm | 6.8mm
+| Month	  | January | February | March | April | May | June | July | August | September | October | November | December |
+| ------- | ------- | -------- | ----- | ----- | --- | ---- | ---- | ------ | --------- | ------- | -------- | -------- |
+| Births  | 7.0mm   | 6.5mm    | 7.1mm | 6.8mm | 7.2mm | 7.1mm | 7.5mm | 7.6mm | 7.4mm | 7.3mm | 6.9mm | 7.1mm |
 
 
 ## About Dataquest
