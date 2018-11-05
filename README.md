@@ -26,5 +26,17 @@ Below the number of births by month from 1994 to 2014 are collected. There were 
 | November | 6.9 |
 | December | 7.1 |
 
+About 45% more births occurred on weekdays than Saturday or Sunday.
+
+| Day of Week | Births (mm) |
+| :---------- | ----------: |
+| Sunday | 8.3 |
+| Monday | 12.7 |
+| Tuesday | 14.0 |
+| Wednesday | 13.8 |
+| Thursday | 13.7 |
+| Friday | 13.4 |
+| Saturday | 9.4 | 
+
 ## About Dataquest
 Dataquest ([dataquest.io](https://www.dataquest.io/home)) is an online code academy which offers educational content relating to Data Science.
