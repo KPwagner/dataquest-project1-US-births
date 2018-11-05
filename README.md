@@ -38,7 +38,7 @@ About 45% more births occurred on weekdays than Saturday or Sunday.
 | Friday | 13.4 |
 | Saturday | 9.4 | 
 
-There is a slight upward trend in the number of births per year from 1994 to 2014, though the trend is well under 1% per year, so it may not be significant.
+Annual birth rates were flat from 1994 to 2014.
 
 | Year | Births (mm) |
 | :--- | ----------: |
