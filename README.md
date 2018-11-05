@@ -12,93 +12,119 @@ After combining the CDC and SSA data, the resulting dataset spans all dates from
 Below the number of births by month from 1994 to 2014 are collected. There were not significantly more or fewer births in any given month. February, even taking into account fewer days, was a slightly less popular month with a total of 6.5mm births, and July and August were slightly more populars months with births of 7.5mm and 7.6mm respectively.
 
 | Month | Births (mm) |
-| :---- | -----: |
-| January | 7.0 |
-| February | 6.5 |
-| March | 7.1 |
-| April | 6.8 |
-| May | 7.2 |
-| June | 7.1 |
-| July | 7.5 |
-| August | 7.6 |
-| September | 7.4 |
-| October | 7.3 |
-| November | 6.9 |
-| December | 7.1 |
+| :------ | ------: |
+| 1 | 6.95 |
+| 2 | 6.49 |
+| 3 | 7.12 |
+| 4 | 6.83 |
+| 5 | 7.15 |
+| 6 | 7.1 |
+| 7 | 7.5 |
+| 8 | 7.6 |
+| 9 | 7.41 |
+| 10 | 7.26 |
+| 11 | 6.85 |
+| 12 | 7.12 |
 
 About 45% more births occurred on weekdays than Saturday or Sunday.
 
 | Day of Week | Births (mm) |
-| :---------- | ----------: |
-| Sunday | 8.3 |
-| Monday | 12.7 |
-| Tuesday | 14.0 |
-| Wednesday | 13.8 |
-| Thursday | 13.7 |
-| Friday | 13.4 |
-| Saturday | 9.4 | 
+| :------ | ------: |
+| 6 | 9.42 |
+| 7 | 8.34 |
+| 1 | 12.67 |
+| 2 | 14.02 |
+| 3 | 13.78 |
+| 4 | 13.69 |
+| 5 | 13.47 |
 
 Annual birth rates were flat from 1994 to 2014.
 
 | Year | Births (mm) |
-| :--- | ----------: |
-| 1994 | 4.0 |
+| :------ | ------: |
+| 1994 | 3.95 |
 | 1995 | 3.9 |
-| 1996 | 3.9 |
-| 1997 | 3.9 |
-| 1998 | 3.9 |
-| 1999 | 4.0 |
-| 2000 | 4.1 |
-| 2001 | 4.0 |
-| 2002 | 4.0 |
-| 2003 | 4.1 |
-| 2004 | 4.2 |
-| 2005 | 4.2 |
-| 2006 | 4.3 |
-| 2007 | 4.4 |
-| 2008 | 4.3 |
-| 2009 | 4.2 |
-| 2010 | 4.1 |
-| 2011 | 4.0 |
+| 1996 | 3.89 |
+| 1997 | 3.88 |
+| 1998 | 3.94 |
+| 1999 | 3.96 |
+| 2000 | 4.06 |
+| 2001 | 4.03 |
+| 2002 | 4.02 |
+| 2003 | 4.09 |
+| 2004 | 4.19 |
+| 2005 | 4.21 |
+| 2006 | 4.34 |
+| 2007 | 4.38 |
+| 2008 | 4.31 |
+| 2009 | 4.19 |
+| 2010 | 4.06 |
+| 2011 | 4.01 |
 | 2012 | 4.0 |
-| 2013 | 4.0 |
-| 2014 | 4.0 |
+| 2013 | 3.97 |
+| 2014 | 4.01 |
 
 Seemingly no birth date of month preference exists. Note: lower births on the 31st date of month are due to only half of the months in the year having a 31st date.
 
-| Date of Month | Births (mm) |
-| :------------ | ----------: |
-| 1 | 2.8 |
-| 2 | 2.8 |
+| Day of Month | Births (mm) |
+| :------ | ------: |
+| 1 | 2.76 |
+| 2 | 2.79 |
 | 3 | 2.8 |
-| 4 | 2.8 |
-| 5 | 2.8 |
+| 4 | 2.76 |
+| 5 | 2.79 |
 | 6 | 2.8 |
-| 7 | 2.8 |
-| 8 | 2.8 |
-| 9 | 2.8 |
-| 10 | 2.8 |
-| 11 | 2.8 |
-| 12 | 2.8 |
-| 13 | 2.7 |
-| 14 | 2.8 |
-| 15 | 2.8 |
-| 16 | 2.8 |
-| 17 | 2.8 |
-| 18 | 2.8 |
-| 19 | 2.8 |
-| 20 | 2.9 |
-| 21 | 2.9 |
-| 22 | 2.8 |
-| 23 | 2.8 |
-| 24 | 2.7 |
-| 25 | 2.7 |
-| 26 | 2.7 |
-| 27 | 2.8 |
-| 28 | 2.8 |
-| 29 | 2.6 |
-| 30 | 2.6 |
-| 31 | 1.6 |
+| 7 | 2.83 |
+| 8 | 2.83 |
+| 9 | 2.81 |
+| 10 | 2.84 |
+| 11 | 2.82 |
+| 12 | 2.84 |
+| 13 | 2.75 |
+| 14 | 2.85 |
+| 15 | 2.84 |
+| 16 | 2.83 |
+| 17 | 2.85 |
+| 18 | 2.85 |
+| 19 | 2.83 |
+| 20 | 2.85 |
+| 21 | 2.85 |
+| 22 | 2.83 |
+| 23 | 2.79 |
+| 24 | 2.75 |
+| 25 | 2.71 |
+| 26 | 2.75 |
+| 27 | 2.79 |
+| 28 | 2.82 |
+| 29 | 2.64 |
+| 30 | 2.58 |
+| 31 | 1.59 |
+
+Looking at the births on 9/11, The data shows a slight decline in the average births after 2001 compared to before 2002. The result is inconclusive due to the volatility of births rates for any specific date of the year. But the births on 9/11/11, a Wednesday, are worth noting: at 7.5k, this is the lowest number of births on 9/11 in the entire 21 year set. Maybe the 10 year anniversary of 9/11/01 was intentionally avoided by many.
+
+| Year | Births on 9/11 (000s) |
+| :------ | ------: |
+| 1994 | 8.4 |
+| 1995 | 11.5 |
+| 1996 | 12.4 |
+| 1997 | 12.5 |
+| 1998 | 12.9 |
+| 1999 | 9.6 |
+| 2000 | 12.1 |
+| 2001 | 13.2 |
+| 2002 | 12.4 |
+| 2003 | 12.9 |
+| 2004 | 9.3 |
+| 2005 | 8.0 |
+| 2006 | 12.9 |
+| 2007 | 14.1 |
+| 2008 | 13.4 |
+| 2009 | 13.0 |
+| 2010 | 8.8 |
+| 2011 | 7.5 |
+| 2012 | 12.5 |
+| 2013 | 12.1 |
+| 2014 | 12.1 |
 
 ## About Dataquest
 Dataquest ([dataquest.io](https://www.dataquest.io/home)) is an online code academy which offers educational content relating to Data Science.
