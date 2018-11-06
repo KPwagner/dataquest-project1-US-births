@@ -13,30 +13,30 @@ Below the number of births by month from 1994 to 2014 are collected. There were 
 
 | Month | Births (mm) |
 | :------ | ------: |
-| 1 | 6.95 |
-| 2 | 6.49 |
-| 3 | 7.12 |
-| 4 | 6.83 |
-| 5 | 7.15 |
-| 6 | 7.1 |
-| 7 | 7.5 |
-| 8 | 7.6 |
-| 9 | 7.41 |
-| 10 | 7.26 |
-| 11 | 6.85 |
-| 12 | 7.12 |
+| January | 6.95 |
+| February | 6.49 |
+| March | 7.12 |
+| April | 6.83 |
+| May | 7.15 |
+| June | 7.1 |
+| July | 7.5 |
+| August | 7.6 |
+| September | 7.41 |
+| October | 7.26 |
+| Novmeber | 6.85 |
+| December | 7.12 |
 
 About 45% more births occurred on weekdays than Saturday or Sunday.
 
 | Day of Week | Births (mm) |
 | :------ | ------: |
-| 6 | 9.42 |
-| 7 | 8.34 |
-| 1 | 12.67 |
-| 2 | 14.02 |
-| 3 | 13.78 |
-| 4 | 13.69 |
-| 5 | 13.47 |
+| Saturday | 9.42 |
+| Sunday | 8.34 |
+| Monday | 12.67 |
+| Tuesday | 14.02 |
+| Wednesday | 13.78 |
+| Thursday | 13.69 |
+| Friday | 13.47 |
 
 Annual birth rates were flat from 1994 to 2014.
 
@@ -66,7 +66,7 @@ Annual birth rates were flat from 1994 to 2014.
 
 Seemingly no birth date of month preference exists. Note: lower births on the 31st date of month are due to only half of the months in the year having a 31st date.
 
-| Day of Month | Births (mm) |
+| Date of Month | Births (mm) |
 | :------ | ------: |
 | 1 | 2.76 |
 | 2 | 2.79 |
