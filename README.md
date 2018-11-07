@@ -9,7 +9,7 @@ This project is from the Python Programming: Beginner course of Dataquest's Data
 ## Findings from Data Exploration
 After combining the CDC and SSA data, the resulting dataset spans all dates from 1994 to 2014.
 
-Below the number of births by month from 1994 to 2014 are collected. There were not significantly more or fewer births in any given month. February, even taking into account fewer days, was a slightly less popular month with a total of 6.5mm births, and July and August were slightly more populars months with births of 7.5mm and 7.6mm respectively.
+Below, the number of births by month from 1994 to 2014 are collected. There were not significantly more or fewer births in any given month. February, even taking into account fewer days, was a slightly less popular month with a total of 6.5mm births, and July and August were slightly more populars months with births of 7.5mm and 7.6mm respectively.
 
 | Month | Births (mm) |
 | :------ | ------: |
@@ -100,7 +100,7 @@ Seemingly no birth date of month preference exists. Note: lower births on the 31
 | 30 | 2.58 |
 | 31 | 1.59 |
 
-Looking at the births on 9/11, The data shows a slight decline in the average births after 2001 compared to before 2002. The result is inconclusive due to the volatility of births rates for any specific date of the year. But the births on 9/11/11, a Wednesday, are worth noting: at 7.5k, this is the lowest number of births on 9/11 in the entire 21 year set. Maybe the 10 year anniversary of 9/11/01 was intentionally avoided by many.
+Looking at the births on 9/11, the data shows a slight decline in the average births after 2001 compared to before 2002. The result is inconclusive due to the volatility of births rates for any specific date of the year. But the births on 9/11/11, a Wednesday, are worth noting: at 7.5k, this is the lowest number of births on 9/11 in the entire 21 year set. Maybe the 10 year anniversary of 9/11/01 was intentionally avoided by many.
 
 | Year | Births on 9/11 (000s) |
 | :------ | ------: |
